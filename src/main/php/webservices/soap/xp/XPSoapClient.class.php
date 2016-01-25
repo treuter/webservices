@@ -4,7 +4,7 @@ use xml\QName;
 use util\log\Traceable;
 use webservices\soap\ISoapClient;
 use webservices\soap\transport\SOAPHTTPTransport;
-
+use lang\MethodNotImplementedException;
 
 /**
  * Basic SOAP-Client

@@ -1,6 +1,7 @@
 <?php namespace webservices\json;
 
 use text\parser\generic\AbstractParser;
+use text\parser\generic\ParseException;
 
 /**
  * Generated parser class
